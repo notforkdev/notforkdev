@@ -1,7 +1,9 @@
 # 👋 Hello There
 <p align="center">
 Im <b>notfork (he/him)</b> a html, css, discord bot and node.js dev,
-  
+You probably found this on my discord page soo...
+
+Theres no info here that you cant find on discord 💀
 </p>
 
 ![status](https://api.statusbadges.me/badge/status/766770928297181245?style=for-the-badge)
