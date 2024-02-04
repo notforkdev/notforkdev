@@ -1,6 +1,7 @@
 # 👋🏻 Hello There
 <p align="center">
-Im <b>notfork (he/him)</b> a html, css, discord bot and node.js dev,
+Im <b>notfork (he/him)</b> a html, css, discord bot and node.js dev.
+<br>
 16m ig???
 </p>
 
