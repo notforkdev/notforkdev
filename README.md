@@ -1,4 +1,4 @@
-# 👋 Hello There
+# 👋🏻 Hello There
 <p align="center">
 Im <b>notfork (he/him)</b> a html, css, discord bot and node.js dev,
 You probably found this on my discord page soo...
