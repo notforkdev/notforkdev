@@ -2,7 +2,10 @@
 <p align="center">
 Im <b>notfork (he/him)</b> a html, css, discord bot and node.js dev.
 <br>
-16m ig???
+16m
+<br>
+![Instergam](https://www.instagram.com/notforkdev/)
+![Twilter](https://twitter.com/notforkfr)
 </p>
 
 ![status](https://api.statusbadges.me/badge/status/766770928297181245?style=for-the-badge)
